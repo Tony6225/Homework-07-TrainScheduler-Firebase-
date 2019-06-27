@@ -1,0 +1,32 @@
+.jumbotron {
+	background-color: black;
+		color: white;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+.panel-heading {
+	background-color: blue;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #ddd;
+    color: black;
+
+}
+
+th {
+	color: #ffffff;
+}
+
+td {
+	color: #ffffff;
+}
+
+h3 {
+margin-left: 10px;
+}
